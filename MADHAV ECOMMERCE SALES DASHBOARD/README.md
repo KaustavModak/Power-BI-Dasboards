@@ -1,0 +1,1 @@
+This project is a comprehensive tutorial on creating a Power BI dashboard, aimed at beginners. The focus is on data importation, transformation using Power Query, and the creation of visualizations and dashboards.
